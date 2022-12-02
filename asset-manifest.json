@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Valwars/Nuit-info.git/static/css/main.ca9bbe27.css",
+    "main.js": "/Valwars/Nuit-info.git/static/js/main.14b121ca.js",
+    "static/js/787.9b5ce7ee.chunk.js": "/Valwars/Nuit-info.git/static/js/787.9b5ce7ee.chunk.js",
+    "static/media/Montserrat-Bold.ttf": "/Valwars/Nuit-info.git/static/media/Montserrat-Bold.079ca05d3ded9bc107ab.ttf",
+    "static/media/Montserrat-SemiBold.ttf": "/Valwars/Nuit-info.git/static/media/Montserrat-SemiBold.fa8441f345d83a0bc4ec.ttf",
+    "static/media/logosida.svg": "/Valwars/Nuit-info.git/static/media/logosida.b0931cdd9d76d6f0228457de9adabc51.svg",
+    "index.html": "/Valwars/Nuit-info.git/index.html",
+    "main.ca9bbe27.css.map": "/Valwars/Nuit-info.git/static/css/main.ca9bbe27.css.map",
+    "main.14b121ca.js.map": "/Valwars/Nuit-info.git/static/js/main.14b121ca.js.map",
+    "787.9b5ce7ee.chunk.js.map": "/Valwars/Nuit-info.git/static/js/787.9b5ce7ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca9bbe27.css",
+    "static/js/main.14b121ca.js"
+  ]
+}
